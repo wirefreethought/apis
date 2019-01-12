@@ -9,11 +9,11 @@
     ],
     "created": "2017-10-28",
     "modified": "2017-10-28",
-    "url": "http://wirefreethought.com/files/others/apis.json",
+    "url": "https://raw.githubusercontent.com/wirefreethought/apis/master/apis.json",
 	"specificationVersion": "0.14",
 	"apis": [
 		{
-			"name": "GeoDB City API",
+			"name": "GeoDB Cities API",
 			"description": "A REST-based global city and region data consumable platform. The API supports several operations available in JSON format including city details, countries, country details, region details, and currencies. Developers need to request an API Key. The API uses hypermedia (HATEOAS) for friendly paging results.",
 			"image": "https://wirefreethought.github.io/geodb-cities-api-docs/images/logo.png",
 			"humanURL": "http://geodb-cities-api.wirefreethought.com",
