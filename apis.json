@@ -1,0 +1,69 @@
+{
+	"name": "Wirefree Thought",
+	"description": "Wirefree Thought provides APIs to serve as foundational building blocks for third-party applications.",
+	"image": "http://wirefreethought.com/files/images/logo.png",
+	"tags": [
+        "consulting",
+        "enterprise development",
+        "vertical apis"
+    ],
+    "created": "2017-10-28",
+    "modified": "2017-10-28",
+    "url": "http://wirefreethought.com/files/others/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "GeoDB City API",
+			"description": "A REST-based global city and region data consumable platform. The API supports several operations available in JSON format including city details, countries, country details, region details, and currencies. Developers need to request an API Key. The API uses hypermedia (HATEOAS) for friendly paging results.",
+			"image": "https://wirefreethought.github.io/geodb-cities-api-docs/images/logo.png",
+			"humanURL": "http://geodb-cities-api.wirefreethought.com",
+			"baseURL": "https://wft-geo-db.p.mashape.com",
+			"tags": [
+			    "cities api",
+			    "data-as-a-service",
+			    "geography",
+				"location",
+				"localization",
+				"city autocomplete",
+				"city search"
+			],
+			"properties": [
+                {
+                    "type": "Swagger",
+                    "url": "https://wirefreethought.github.io/geodb-cities-api-docs/swagger.json"
+                },
+				{
+				    "type": "X-documentation",
+				    "url": "http://geodb-cities-api.wirefreethought.com"
+				},
+                {
+                    "type": "X-support",
+                    "url": "http://geodb-cities-api.wirefreethought.com/support"
+                },
+				{
+					"type": "X-blog",
+					"url": "http://geodb-cities-api.wirefreethought.com/blog"
+				},
+				{
+					"type": "X-blog-atom-feed",
+					"url": "http://geodb-cities-api.wirefreethought.com/entries.atom"
+				}
+			],
+			"contact": [
+				{
+					"FN": "GeoDB API Team",
+					"email": "geodb-support@wirefreethought.com",
+					"url": "http://geodb-cities-api.wirefreethought.com/support"
+				}
+			]
+		}
+	],
+	"maintainers": [
+		{
+			"FN": "Wirefree Thought",
+			"email": "mmogley@wirefreethought.com",
+			"organizationName": "Wirefree Thought",
+			"url": "http://wirefreethought.com"
+		}
+	]
+}
