@@ -8,14 +8,14 @@
         "vertical apis"
     ],
     "created": "2017-10-28",
-    "modified": "2019-01-12",
+    "modified": "2025-11-16",
     "url": "https://raw.githubusercontent.com/wirefreethought/apis/master/apis.json",
 	"specificationVersion": "0.14",
 	"apis": [
 		{
 			"name": "GeoDB Cities API",
 			"description": "A REST-based global city and region data consumable platform. The API supports several operations available in JSON format including city details, countries, country details, region details, and currencies. Developers need to request an API Key. The API uses hypermedia (HATEOAS) for friendly paging results.",
-			"image": "https://wirefreethought.github.io/geodb-cities-api-docs/images/logo.png",
+			"image": "https://wirefreethought.github.io/geodb-rest-api-docs/images/logo.png",
 			"humanURL": "http://geodb-cities-api.wirefreethought.com",
 			"baseURL": "https://wft-geo-db.p.mashape.com",
 			"tags": [
@@ -30,7 +30,7 @@
 			"properties": [
                 {
                     "type": "Swagger",
-                    "url": "https://wirefreethought.github.io/geodb-cities-api-docs/swagger.json"
+                    "url": "https://wirefreethought.github.io/geodb-rest-api-docs/swagger.json"
                 },
 				{
 				    "type": "X-documentation",
