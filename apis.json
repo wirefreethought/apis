@@ -17,7 +17,7 @@
 			"description": "A REST-based global city and region data consumable platform. The API supports several operations available in JSON format including city details, countries, country details, region details, and currencies. Developers need to request an API Key. The API uses hypermedia (HATEOAS) for friendly paging results.",
 			"image": "https://wirefreethought.github.io/geodb-rest-api-docs/images/logo.png",
 			"humanURL": "http://geodb-cities-api.wirefreethought.com",
-			"baseURL": "https://wft-geo-db.p.mashape.com",
+			"baseURL": "https://wft-geo-db.p.rapidapi.com",
 			"tags": [
 			    "cities api",
 			    "data-as-a-service",
